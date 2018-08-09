@@ -1,4 +1,4 @@
-Luukee Portfolio TEst Theme for WordPress
+Luukee Portfolio Theme for WordPress
 ===============
 
 There's not much to it! This theme is meant as a simple starting point for your next migration to WordPress.
